@@ -1,0 +1,1 @@
+1. spring 生命周期对应到refresh()方法

@@ -1,0 +1,1 @@
+1. 2020-12-3 添加了lifeCycle生命周期 比如BeanPostProcessor/BeanDefinitionPostProcessor
